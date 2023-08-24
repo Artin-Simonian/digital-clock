@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+#container {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff;
+  font-size: 7rem;
+  height: 100vh;
+  text-shadow: blue 2px 2px;
+}
+
+
+#session{
+  text-shadow: red 2px 2px;
+}
